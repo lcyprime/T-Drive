@@ -1,6 +1,6 @@
 name = "t-drive"
 main = "worker/worker.js"
-compatibility_date = "2025-11-1"
+compatibility_date = "2025-1-1"
 
 [vars]
 TELEGRAM_BOT_TOKEN = "7947127930:AAEZris5UVfEV7II99m14g7uggRC7o3YDoE"
